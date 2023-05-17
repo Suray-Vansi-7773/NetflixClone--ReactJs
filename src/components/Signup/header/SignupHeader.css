@@ -1,0 +1,53 @@
+.container {
+  height: 3rem;
+  padding: 1rem;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  justify-items: center;
+}
+.logo img{
+  /* border: 2px solid; */
+  margin-top: 1rem;
+  height: 2.5rem;
+  margin-left: 0.9rem;
+}
+.logosvg {
+  height: 2rem;
+  width: 10rem;
+  padding-top: 1rem;
+}
+.options {
+  margin-top: -1rem;
+  height: 5rem;
+}
+.options ul {
+  display: flex;
+}
+.options li {
+  list-style: none;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  /* margin: auto; */
+}
+.signupheader_select {
+  width: 8rem;
+  height: 2.5rem;
+  color: white;
+  font-weight: 800;
+  border-radius: 0.3rem;
+  text-align: center;
+}
+.signin_button {
+  background-color: #f22d37;
+  width: 5rem;
+  height: 2.5rem;
+  color: white;
+  font-weight: 800;
+  border-radius: 0.3rem;
+  text-align: center;
+  cursor: pointer;
+}

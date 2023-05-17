@@ -1,0 +1,30 @@
+.SignupCartContainer{
+    height: 50vh;
+    width: 75vw;
+    color: white;
+    margin:auto;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.SignupCartImg img{
+    width: 100%;
+    height: 80%;
+
+}
+
+.SignupCartText{
+    display: flex;
+    flex-direction: column;
+    /* padding: 0rem; */
+
+}
+.SignupCartText h1{
+    font-size: 3rem;
+    width: 30rem;
+}
+.SignupCartText p{
+    font-size: 1.25rem;
+    width: 28rem;
+
+}

@@ -1,0 +1,42 @@
+.footer_container {
+  width: 65rem;
+  margin-top: 1rem;
+  margin-left: 6rem;
+}
+
+.footer_secondDiv ul {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer_secondDiv li {
+  width: 20rem;
+  margin: 0.3rem;
+  list-style: none;
+  text-decoration: underline;
+  color: #ffffffb3;
+  font-weight: 100;
+}
+.footer_firstDiv h3 {
+  color: #ffffffb3;
+  margin: 2.3rem;
+  font-size: 16px;
+}
+.footer_thirdDiv p{
+    margin: 2.3rem;
+    color: #ffffffb3;
+    padding-bottom: 3rem;
+}
+.footer_thirdDiv li{
+  list-style: none;
+}
+
+.signupheader_select {
+  background-color: #f22d37;
+  width: 8rem;
+  height: 2.5rem;
+  color: white;
+  font-weight: 800;
+  border-radius: 0.3rem;
+  text-align: center;
+}

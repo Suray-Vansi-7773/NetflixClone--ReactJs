@@ -1,0 +1,143 @@
+.login_Container {
+  background-image: radial-gradient(
+      circle,
+      rgba(0, 0, 0, 0.6) 0%,
+      rgb(24, 24, 24) 100%
+    ),
+    url("../../img//Backgroundimg.jpg");
+
+  /* background-image: url("../../img//Backgroundimg.jpg"); */
+  background-size: cover;
+  border: 2px solid red;
+  color: #757575;
+}
+.login_Container1 {
+  padding: 0;
+  margin: 0;
+}
+.logo img {
+  height: 2rem;
+  margin-left: 2rem;
+}
+.login_form {
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 450px;
+  margin: auto;
+  height: 660px;
+  border-radius: 5px;
+}
+.login_FormUp h2 {
+  color: white;
+  font-size: 2rem;
+}
+.login_FormUp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  padding: 3rem;
+}
+.login_FormUp button {
+  background-color: #e50914;
+  width: 325px;
+  height: 50px;
+  margin-top: 2.5rem;
+  color: white;
+  font-weight: 700;
+  cursor: pointer;
+}
+.login_FormUp_input {
+  background-color: #333333;
+  color: #8c8c8c;
+  width: 300px;
+  height: 50px;
+  margin-top: 0.8rem;
+  padding-left: 1rem;
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2);
+}
+
+.login_FormUp_checkAndPara {
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+  color: white;
+  font-weight: 100;
+}
+.login_FormUp_input_check {
+  margin-top: 0.8rem;
+}
+.login_FormUp_input_para {
+  margin-right: 1.5rem;
+}
+
+.login_FormDown {
+  width: 324px;
+  margin: auto;
+}
+
+.login_FormDown span {
+  color: white;
+  cursor: pointer;
+}
+.login_FormDown b {
+  color: rgb(47, 47, 255);
+  cursor: pointer;
+}
+
+.Loginfooter_container {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.75);
+  padding-bottom: 2rem;
+}
+.Loginfooter_top {
+  margin: auto;
+}
+
+.Loginfooter_top p {
+  color: #ffffffb3;
+  margin: 2.3rem;
+  font-size: 16px;
+}
+
+.Loginfooter_middle ul {
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Loginfooter_middle li {
+  width: 15rem;
+  margin: 0.3rem;
+  list-style: none;
+  color: #ffffffb3;
+  font-weight: 100;
+}
+.Loginfooter_middle li {
+  list-style: none;
+}
+
+.Loginfooter_bottom li {
+  background-color: #f22d37;
+  width: 8rem;
+  height: 2.5rem;
+  list-style: none;
+  color: white;
+  font-weight: 800;
+  border-radius: 0.3rem;
+  text-align: center;
+}
+
+.footer_thirdDiv li {
+  list-style: none;
+}
+
+.signupheader_select {
+  background-color: #f22d37;
+  width: 8rem;
+  height: 2.5rem;
+  color: white;
+  font-weight: 800;
+  border-radius: 0.3rem;
+  text-align: center;
+}

@@ -1,0 +1,31 @@
+.SignupQuestionContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgba(19, 33, 68, 1) ;
+    width: 65rem;
+    /* margin: auto; */
+    margin-left: 8rem;
+    margin-top: 0.6rem;
+    
+}
+
+.SignupQuestionText h3{
+    background-color: rgba(19, 33, 68, 1);
+    color: white;
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+.SignupQuestionText {
+    background-color: rgba(19, 33, 68, 1);
+}
+.SignupQuestionIcon{
+background-color: rgba(19, 33, 68, 1);
+display: flex;
+justify-content: center;
+margin-top: 2rem;
+font-size: 3.2rem;
+font-weight: 800;
+width: 5rem;
+color: white;
+
+}
